@@ -1,0 +1,23 @@
+$btn-color: tan;
+
+.button {
+    background-color: $btn-color;
+    border: none;
+    margin-right: 1rem;
+    width: 30px;
+    height: 30px;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.value { 
+    font-size: 40px;
+}
+
+.images {
+    height: 50px;
+    img{
+        height: 100%;
+    }
+}
